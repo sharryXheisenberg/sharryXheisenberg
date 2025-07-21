@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about exploring the intersection of
 ## Skills
 
 ```
-💻 Programming Languages | 🛠️ Frameworks & Libraries | 🗄️ Databases | 🔧 Tools & Technologies
+💻 C++ , JavaScript, typescript, Java , python, SQL , php| 🛠️ React, NextJS , MySQL, TailwindCSS , Postman  | 🗄️ MySQL, MongoDB 
 ```
 
 ## My GitHub Stats
