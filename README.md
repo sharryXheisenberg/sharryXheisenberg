@@ -16,16 +16,10 @@ Welcome to my GitHub profile! I'm passionate about exploring the intersection of
 💻 C++ , JavaScript, typescript, Java , python, SQL , php| 🛠️ React, NextJS , MySQL, TailwindCSS , Postman  | 🗄️ MySQL, MongoDB 
 ```
 
-## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharryXheisenberg&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharryXheisenberg&layout=compact&theme=radical)
 
 ## Connect With Me
 
-- [LinkedIn](#)
-- [Twitter](#)
+- [LinkedIn](https://www.linkedin.com/in/saurabh-pande-8a9b7026a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Personal Website](#)
 
 ---
